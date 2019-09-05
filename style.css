@@ -4,7 +4,7 @@ body {
   margin: 0;
 }
 
-
+/* Because h1 is the immediate descendant of header, the ">" symbol is used */
 header > h1 {
   color: rgb(12, 151, 169);
   text-align: center;
@@ -12,7 +12,7 @@ header > h1 {
   font-weight: bold;
   font: calibri;
 }
-
+/* Because h1 is *NOT* the immediate descendant of header, the ">" symbol is *NOT* used */
 header nav {
   text-align: center;
   font-style: italic;
