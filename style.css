@@ -16,7 +16,6 @@ header {
 
 a {
   padding: 0px 10px;
-  background-color: grey;
 }
 
 figcaption {
@@ -40,4 +39,4 @@ figcaption {
   width: 25%;
   text-align: center;
   background-color: red;
-} 
+}
