@@ -11,6 +11,13 @@ header {
   font: calibri;
 }
 
+header {
+  text-align: center;
+  font-style: italic;
+  font-weight: bold;
+  font: calibri;
+}
+
 .center {
   display: block;
   margin-left: auto;
