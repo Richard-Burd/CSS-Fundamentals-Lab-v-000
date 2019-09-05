@@ -5,6 +5,7 @@ body {
 }
 
 header > h1 {
+  color: inherit;
   text-align: center;
   font-style: italic;
   font-weight: bold;
