@@ -20,7 +20,7 @@ a {
 
 figcaption {
   text-align: center;
-  font-size: large;
+  font-size: large, bold;
 }
 
 #featured-property p {
