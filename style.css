@@ -6,6 +6,8 @@ body {
 
 header {
   text-align: center;
+  font-style: italic;
+  font: calibri;
 }
 
 .center {
